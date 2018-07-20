@@ -1,0 +1,198 @@
+.bracket-left > div > div > div > button {
+  text-align: left;
+}
+
+.bracket-right > div > div > div > button {
+  text-align: right;
+}
+
+.btn-group, .btn{
+  width: 100%;
+}
+
+.btn {
+  font-size: 11px;
+  padding: 2px 8px;
+  line-height: 18px;
+}
+
+.bracket-btn-group-right{
+  margin: 0 0 0 auto;
+}
+
+/* Bracket 64 css */
+.bracket64-team32:not(:last-child){
+  margin-bottom: 5px;
+}
+
+.bracket64-team16{
+  margin-top: 27px;
+}
+
+.bracket64-team16:not(:last-child){
+  margin-bottom: 59px;
+}
+
+.bracket64-team8{
+  margin-top: 81px;
+}
+
+.bracket64-team8:not(:last-child){
+  margin-bottom: 167px;
+}
+
+.bracket64-team4{
+  margin-top: 189px;
+}
+
+.bracket64-team4:not(:last-child){
+  margin-bottom: 383px;
+}
+
+.bracket64-team2{
+  margin-top: 405px;
+}
+
+.bracket64-final{
+  margin-top: 395px;
+}
+
+.bracket64-divider-left-32, .bracket64-divider-right-32{
+  height: 55px; 
+  width: 100%;
+}
+
+.bracket64-divider-left-32:first-child, .bracket64-divider-right-32:first-child{
+  margin-top: 24px; 
+}
+
+.bracket64-divider-left-32:not(:last-child), .bracket64-divider-right-32:not(:last-child){
+  margin-bottom: 53px;
+}
+
+.tuborg32 {
+  border: 1px solid #666666; 
+  border-left: 0; 
+  border-radius: 0 7px 7px 0; 
+  height: 55px;
+  float: left; 
+  width: 50%; 
+}
+
+.bracket64-divider-span1-left-32, .bracket64-divider-span1-right-32{
+  height: 55px; 
+  width: 100%;
+}
+
+.bracket64-divider-span1-left-32:first-child, .bracket64-divider-span1-right-32:first-child{
+  margin-top: 24px; 
+}
+
+.bracket64-divider-span1-left-32:not(:last-child), .bracket64-divider-span1-right-32:not(:last-child){
+  margin-bottom: 53px;
+}
+
+.bracket64-divider-span2-left-32, .bracket64-divider-span2-right-32{
+  height: 55px; 
+  width: 100%;
+}
+
+.bracket64-divider-span1-left-32:first-child, .bracket64-divider-span2-right-32:first-child{
+  margin-top: 24px; 
+}
+
+.bracket64-divider-span2-left-32:not(:last-child), .bracket64-divider-span2-right-32:not(:last-child){
+  margin-bottom: 53px;
+}
+
+.bracket64-divider-left-16{
+  margin-top: 395px;
+}
+
+.bracket64-divider-left-8{
+  margin-top: 395px;
+}
+
+.bracket64-divider-left-4{
+  margin-top: 395px;
+}
+
+.bracket64-divider-left-2{
+  margin-top: 395px;
+}
+
+
+/* Bracket 32 css */
+.bracket32-match16-left:not(:last-child), .bracket32-match16-right:not(:last-child){
+  margin-bottom: 40px;
+}
+
+.bracket32-match8-left:first-child, .bracket32-match8-right:first-child{
+  margin-top: 44px;
+}
+
+.bracket32-match8-left:not(:last-child), .bracket32-match8-right:not(:last-child){
+  margin-bottom: 129px;
+}
+
+.bracket32-match4-left:first-child, .bracket32-match4-right:first-child{
+  margin-top: 133px;
+}
+
+.bracket32-match4-left:not(:last-child), .bracket32-match4-right:not(:last-child){
+  margin-bottom: 307px;
+}
+
+.bracket32-match2-left, .bracket32-match2-right{
+  margin-top: 311px;
+}
+
+.bracket32-final{
+  margin-top: 301px;
+}
+
+
+
+/* Bracket 16 css */
+.bracket16-match16-left:not(:last-child), .bracket32-match16-right:not(:last-child){
+  margin-bottom: 40px;
+}
+
+.bracket16-match8-left:first-child, .bracket32-match8-right:first-child{
+  margin-top: 44px;
+}
+
+.bracket16-match8-left:not(:last-child), .bracket32-match8-right:not(:last-child){
+  margin-bottom: 129px;
+}
+
+.bracket16-match4-left:first-child, .bracket32-match4-right:first-child{
+  margin-top: 133px;
+}
+
+.bracket16-match4-left:not(:last-child), .bracket32-match4-right:not(:last-child){
+  margin-bottom: 307px;
+}
+
+.bracket16-match2-left, .bracket32-match2-right{
+  margin-top: 311px;
+}
+
+.bracket16-final{
+  margin-top: 301px;
+}
+
+.bracket-btn-group-center{
+  margin: 0 auto;
+  width: 90%;
+}
+
+.bracket-team{
+  margin: 0;
+}
+
+.bracket-team:not(:last-child){
+  margin-bottom: 1px;
+}
+
+
